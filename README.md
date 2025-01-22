@@ -1,9 +1,9 @@
-Codetech IT Solutions
-Name - Aayush Girish Nerkar
-Intern Id - :CT08GGQ
-C++ Programming
-Batch Duration - January 5th, 2025 to February 5th, 2025.
-Mentor - Neela Santosh.
+#Codetech IT Solutions
+#Name - Aayush Girish Nerkar
+#Intern Id - :CT08GGQ
+#C++ Programming
+#Batch Duration - January 5th, 2025 to February 5th, 2025.
+#Mentor - Neela Santosh.
 # `File Handling Tool`
 
 FileUtil is a C++ class that provides functions for working with files at a simple level. It is simple file handling and provides an easy-to-use interface for performing low-level file operations.
