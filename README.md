@@ -8,7 +8,7 @@
 
 FileUtil is a C++ class that provides functions for working with files at a simple level. It is simple file handling and provides an easy-to-use interface for performing low-level file operations.
 
-# `Featuresof tool`
+# `Features of tool`
 
 - Open files with different modes (read, write, append, read/write).
 - Read data from files into buffers.
